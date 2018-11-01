@@ -1,7 +1,7 @@
 //UVa Problem-100(The 3n + 1 problem)
 //Accepted
 //Running time: 0.656 sec
-//Author: Milon
+//Author: Rahman
 
 #include<cstdio>
 #include<algorithm>
