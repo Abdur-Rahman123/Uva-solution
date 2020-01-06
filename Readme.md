@@ -1,2 +1,2 @@
-My solution of UVA 
+My solution in some of online judge
 
