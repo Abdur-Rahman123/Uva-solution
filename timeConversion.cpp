@@ -16,6 +16,10 @@ string timeConversion(string s) {
         {
             hour=to_string(chour+12);
         }
+        else
+        {
+            hour=to_string(chour);
+        }
     }
     else {
          if(chour==12)
